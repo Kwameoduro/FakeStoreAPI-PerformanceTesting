@@ -39,4 +39,12 @@ The following user flows are covered:
 - **Error Rate:** ≤ 1% of total requests.
 - **Scalability:** Application should scale linearly until peak load and degrade gracefully beyond.
 
+---
+
+##  Workload Model
+- **Baseline Test:** 50 concurrent users
+- **Load Test:** 150 concurrent users
+- **Peak Test:** 300 concurrent users
+- **Stress Test:** up to 500+ users
+- **Endurance Test:** 300 users for over 2–4 hours
 
