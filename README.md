@@ -20,3 +20,23 @@ The ultimate goal is to identify performance bottlenecks and ensure the applicat
 - Evaluate system scalability and stability under load and endurance conditions.
 
 ---
+
+
+## Test Scenarios
+The following user flows are covered:
+
+1. **User Login**
+2. **Search Products / Browse Inventory**
+3. **View Product Details**
+4. **Add to Cart**
+5. **Checkout Process**
+
+---
+
+## Performance Goals (SLAs)
+- **Response Time:** ≤ 2s average; ≤ 3s at the 95th percentile.
+- **Throughput:** ≥ 500 requests per second.
+- **Error Rate:** ≤ 1% of total requests.
+- **Scalability:** Application should scale linearly until peak load and degrade gracefully beyond.
+
+
