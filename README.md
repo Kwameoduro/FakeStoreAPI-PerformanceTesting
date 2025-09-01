@@ -48,3 +48,12 @@ The following user flows are covered:
 - **Stress Test:** up to 500+ users
 - **Endurance Test:** 300 users for over 2–4 hours
 
+---
+
+## Tools & Resources
+- **Apache JMeter** (Test scripting & execution)
+- **BlazeMeter** (Cloud execution & reporting)
+- **Grafana / Prometheus** (Server-side monitoring, optional)
+- **Jenkins / GitHub Actions** (CI/CD automation)
+
+---
