@@ -13,7 +13,7 @@ The ultimate goal is to identify performance bottlenecks and ensure the applicat
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Validate responsiveness of critical user journeys.
 - Ensure throughput of **≥ 500 requests per second** under peak load.
 - Confirm error rate remains **≤ 1%** during execution.
